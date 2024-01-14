@@ -17,6 +17,7 @@
 ) ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
 ![GIT](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)
 ![Styled-Components](https://img.shields.io/badge/styled--components-DB7093?style=for-the-badge&logo=styled-components&logoColor=white)
+![NPM](https://camo.githubusercontent.com/88887ea82a569296ea89c5c7dd2a41d436616c61d28d7f891c1634df2e2e33f3/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f4e706d2d3030303f7374796c653d666f722d7468652d6261646765266c6f676f3d6e706d266c6f676f436f6c6f723d7768697465)
 
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=Mth-dev022&theme=dracula&hide_border=false&include_all_commits=false&count_private=false)<br/>
