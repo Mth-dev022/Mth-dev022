@@ -17,7 +17,7 @@
 
 # 💻 Tech Stack:
 
-<h1>Front-end</h1>
+<h1>Front-End</h1>
 
 ![REACT](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![TYPESCRIPT](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
