@@ -1,6 +1,6 @@
 <img src="assets/Animação.gif">
 
-<img width="89%" src="assets/about-me.png">
+<img src="assets/about.png">
 🔭Since I was very little, I've been very familiar with the world of technology, I've always liked games and sitting for hours and hours in front of a computer screen browsing the internet.<br><br>Recently I discovered programming and I was very interested. A world that mixes technology and a huge logic of thoughts to solve problems for the real world through a screen, and a huge variety of tools to learn and specialize. That's where I was sure of what I wanted for myself, and I jumped into this journey knowing all the challenges and that it won't be easy and that it all has to do with me. So I put together a study plan and outlined my goals to acquire knowledge.<br><br>And here I am, currently studying to become a Front-end developer, learning new things literally every day, looking for references to bring my edge , and enter the job market.<br><br>👯I'm looking for Open Source projects, to acquire and put knowledge into practice.
 
 # 📊 GitHub Stats:
