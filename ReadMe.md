@@ -3,15 +3,15 @@
 # 👨‍💻 About me:
 🔭Since I was very little, I've been very familiar with the world of technology, I've always liked games and sitting for hours and hours in front of a computer screen browsing the internet.<br><br>Recently I discovered programming and I was very interested. A world that mixes technology and a huge logic of thoughts to solve problems for the real world through a screen, and a huge variety of tools to learn and specialize. That's where I was sure of what I wanted for myself, and I jumped into this journey knowing all the challenges and that it won't be easy and that it all has to do with me. So I put together a study plan and outlined my goals to acquire knowledge.<br><br>And here I am, currently studying to become a Front-end developer, learning new things literally every day, looking for references to bring my edge , and enter the job market.<br><br>👯I'm looking for Open Source projects, to acquire and put knowledge into practice.<br><br>
 
- # 📊 GitHub Stats:
+## 🌐 Socials:
+ [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/matheus-souza-87336723a/)
+ [![portfolio](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://portifolio-lime-chi.vercel.app/)
+
+
 ![Mth-dev022's Stats](https://github-readme-stats.vercel.app/api?username=Mth-dev022&theme=blueberry&show_icons=true&hide_border=true&count_private=true)<br/>
 ![Mth-dev022's Streak](https://github-readme-streak-stats.herokuapp.com/?user=Mth-dev022&theme=blueberry&hide_border=true)<br/>
 ![Mth-dev022's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Mth-dev022&theme=blueberry&show_icons=true&hide_border=true&layout=compact)
 
-
-## 🌐 Socials:
- [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/matheus-souza-87336723a/)
- [![portfolio](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://portifolio-lime-chi.vercel.app/)
 
 # 💻 Tech Stack:
 
