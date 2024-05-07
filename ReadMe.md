@@ -17,7 +17,7 @@
 
 <h1>Front-End</h1>
 
-[![My Skills](https://skillicons.dev/icons?i=js,react,typescript,redux,jest,bootstrap,sass,styled-components-react-router-dom )](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=js,react,typescript,redux,jest,cypress,bootstrap,sass,styled-components-react-router-dom )](https://skillicons.dev)
 
 <h1>Back-End</h1>
 
