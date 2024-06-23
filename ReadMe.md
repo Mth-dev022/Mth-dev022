@@ -1,9 +1,9 @@
 <img src="assets/Animação.gif">
 
 # 👨‍💻 About me:
-🔭Desde muito pequeno conheço muito bem o mundo da tecnologia, sempre gostei de jogos e de passar horas e horas sentado em frente à tela do computador navegando na internet.
-Recentemente descobri programação e fiquei muito interessado. Um mundo que mistura tecnologia e uma enorme lógica de pensamentos para resolver problemas do mundo real através de uma tela, e uma enorme variedade de ferramentas para aprender e se especializar.<br><br> Foi aí que tive certeza do que queria para mim, e pulei nessa jornada sabendo de todos os desafios e que não será fácil e que tudo tem a ver comigo. Então montei um plano de estudos e estabeleci minhas metas para adquirir conhecimento.
-E aqui estou eu, estudando para me tornar um desenvolvedor Front-end, aprendendo coisas novas literalmente a cada dia, buscando referências para me destacar e entrar no mercado de trabalho.<br><br>👯 Procuro projetos Open Source, para adquirir e colocar conhecimento em prática.<br><br>
+Olá 👋🏻 atuo principalmente como Desenvolvedor Front-End, possuo conhecimentos básicos em Back-end, Testes de Software e DevOps.
+Tenho experiência no desenvolvimento Web, trabalhando como freelancer tanto para clientes quanto para aprendizado pessoal. Sou competente na criação de interfaces utilizando Java-Script e seu ecossistema.<br><br> Além de habilidades no consumo de Rest APIs com Axios. 
+Considero-me ágil no aprendizado de novas tecnologias e me adapto facilmente a novas culturas e ambientes de trabalho, enfrentando desafios com bastante determinação. Estou em constante desenvolvimento das minhas "Soft-Skills" pois acredito muito que elas são tão importantes quanto as técnicas... <br><br> 👯 Procuro projetos Open Source, para adquirir e colocar conhecimento em prática.<br><br>
 
 ## 🌐 Socials:
  [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/matheus-souza-87336723a/)
