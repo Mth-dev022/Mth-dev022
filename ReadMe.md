@@ -2,7 +2,7 @@
 
 # 👨‍💻 About me:
 🔭Desde muito pequeno conheço muito bem o mundo da tecnologia, sempre gostei de jogos e de passar horas e horas sentado em frente à tela do computador navegando na internet.
-Recentemente descobri programação e fiquei muito interessado. Um mundo que mistura tecnologia e uma enorme lógica de pensamentos para resolver problemas do mundo real através de uma tela, e uma enorme variedade de ferramentas para aprender e se especializar. Foi aí que tive certeza do que queria para mim, e pulei nessa jornada sabendo de todos os desafios e que não será fácil e que tudo tem a ver comigo. Então montei um plano de estudos e estabeleci minhas metas para adquirir conhecimento.
+Recentemente descobri programação e fiquei muito interessado. Um mundo que mistura tecnologia e uma enorme lógica de pensamentos para resolver problemas do mundo real através de uma tela, e uma enorme variedade de ferramentas para aprender e se especializar.<br> Foi aí que tive certeza do que queria para mim, e pulei nessa jornada sabendo de todos os desafios e que não será fácil e que tudo tem a ver comigo. Então montei um plano de estudos e estabeleci minhas metas para adquirir conhecimento.
 E aqui estou eu, estudando para me tornar um desenvolvedor Front-end, aprendendo coisas novas literalmente a cada dia, buscando referências para me destacar e entrar no mercado de trabalho.<br><br>👯 Procuro projetos Open Source, para adquirir e colocar conhecimento em prática.<br><br>
 
 ## 🌐 Socials:
