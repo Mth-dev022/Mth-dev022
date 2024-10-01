@@ -23,7 +23,7 @@ Considero-me ágil no aprendizado de novas tecnologias e me adapto facilmente a 
 
 <h1>Back-End</h1>
 
-[![My Skills](https://skillicons.dev/icons?i=nodejs,express,docker,mysql,mongodb)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=php,docker,mysql,mongodb)](https://skillicons.dev)
 
  <h1>Tools</h1>
  
