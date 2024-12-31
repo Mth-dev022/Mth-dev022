@@ -24,6 +24,10 @@ Considero-me ágil no aprendizado de novas tecnologias e me adapto facilmente a 
 
 [![My Skills](https://skillicons.dev/icons?i=php,docker,mysql)](https://skillicons.dev)
 
+<h1>Testes</h1>
+
+[![My Skills](https://skillicons.dev/icons?i=jest,cypress)](https://skillicons.dev)
+
  <h1>Tools</h1>
  
 [![My Skills](https://skillicons.dev/icons?i=git,npm,webpack,vercel,vite)](https://skillicons.dev)
