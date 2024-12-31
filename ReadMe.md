@@ -7,7 +7,6 @@ Considero-me ágil no aprendizado de novas tecnologias e me adapto facilmente a 
 
 ## 🌐 Socials:
  [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/matheus-souza-87336723a/)
- [![portfolio](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://portifolio-lime-chi.vercel.app/)
 
 
 ![Mth-dev022's Stats](https://github-readme-stats.vercel.app/api?username=Mth-dev022&theme=blueberry&show_icons=true&hide_border=true&count_private=true)<br/>
