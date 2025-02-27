@@ -1,6 +1,6 @@
 <img src="assets/Animação.gif">
 
-# 👨‍💻 About me:
+# 👨‍💻 About me
 Olá 👋🏻 atuo principalmente como Desenvolvedor Back-End, possuo conhecimentos em Front-end, Testes de Software e DevOps.
 Tenho experiência no desenvolvimento Web, trabalhando como freelancer tanto para clientes quanto para aprendizado pessoal. Sou competente na criação de interfaces utilizando Java-Script e seu ecossistema.<br><br> Além de habilidades no consumo de Rest APIs com Axios. 
 Considero-me ágil no aprendizado de novas tecnologias e me adapto facilmente a novas culturas e ambientes de trabalho, enfrentando desafios com bastante determinação. Estou em constante desenvolvimento das minhas "Soft-Skills" pois acredito muito que elas são tão importantes quanto as técnicas... <br><br> 👯 Procuro projetos Open Source, para adquirir e colocar conhecimento em prática.<br><br>
